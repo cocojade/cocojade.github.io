@@ -35,14 +35,14 @@ html {
 }
 
 .typewriter {
-  font-family: 'Trirong', serif;
-  font-size:30px; 
+  font-family: 'Urbanist', sans-serif;
+  font-size:22px; 
   margin: 10px 30px; 
   position:absolute;
   bottom:0px;
   letter-spacing: 6px; 
   font-weight: bold;
-  color: white;
+  color: #E261F9;
 }
 
 .site {
@@ -83,6 +83,7 @@ video {
   font-family: 'Trirong', serif;
   font-size: 80px;
   color: #C4F8FD;
+
   text-align: center;
   animation: glow 1s ease-in-out infinite alternate;
 }
